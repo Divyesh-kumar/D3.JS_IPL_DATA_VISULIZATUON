@@ -1,13 +1,5 @@
-Sepal_Length,Sepal_Width,Petal_Length
+Sepal_Length,Sepal_Width,Petal_Length,Petal_Width,Species
 MI,161.21
 CSK,156.33
-PBKS,150.39
 RCB,155.33
-KKR,153.63
-DD,154.07
-RR,157.11
-SRH,153.66
-DC,151.56
-PW,150.1
-GT,158.61
-LSG,152.55
+
